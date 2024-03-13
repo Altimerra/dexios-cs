@@ -1,0 +1,10 @@
+name = "DexiosCS"
+uuid = "1abd048c-5a8e-402f-b1b3-4d541818e2e9"
+authors = ["Harindu Bandara <harindudb@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+LibSerialPort = "a05a14c7-6e3b-5ba9-90a2-45558833e1df"
+Reactive = "a223df75-4e93-5b7c-acf9-bdd599c0f4de"
