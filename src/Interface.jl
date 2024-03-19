@@ -1,5 +1,5 @@
 module Interface
-    
+
 include("Webapp.jl")
 include("Console.jl")
 
@@ -9,34 +9,34 @@ import .Console
 import Reactive
 import JSON
 
-global command, serialread, serialwrite, serialjson, serialall
-
-export command, serialread, serialwrite, serialjson, serialall
 
 function parseJSON(jsonString::String)
-    try 
-        o = JSON.parse(jsonString);
+    try
+        o = JSON.parse(jsonString)
         return o
     catch e
         println(e)
     end
-    return Dict();
+    return Dict()
 end
 
+command = Reactive.Signal("")
+serialread = Reactive.Signal("")
+serialwrite = Reactive.Signal("")
+serialjson = Reactive.map(parseJSON, serialread, typ=Dict)
+serialall = Reactive.foldp(push!, [], serialjson)
+
+
 function run()
-    global command = Reactive.Signal("")
-    global serialread = Reactive.Signal("")
-    global serialwrite = Reactive.Signal("")
-    global serialjson = Reactive.map(parseJSON, serialread, typ=Dict)
-    global serialall = Reactive.foldp(push!, [], serialjson)
 
     Webapp.app(command)
 
     @async Console.console("COM7", "9600", serialread, serialwrite)
 
-    foreach(x->Reactive.push!(serialwrite, x), command)
+    foreach(x -> Reactive.push!(serialwrite, x), command)
 end
 
+export command, serialread, serialwrite, serialjson, serialall
 
 
 

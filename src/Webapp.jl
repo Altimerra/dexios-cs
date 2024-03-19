@@ -19,8 +19,8 @@ function app(stream::Signal)
   end
   
   route("/", method = POST) do
-    name = postpayload(:val, "0")
-    dict = Dict("command"=>"LED","value" => name)
+    val = postpayload(:val, "0")
+    dict = Dict("command"=>"Mi","value" => val)
     j = json(dict)
     #println(name)
     push!(stream, j)
