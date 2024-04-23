@@ -1,0 +1,1530 @@
+┌ Info: 2024-04-23 06:35:06 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Warning: 2024-04-23 06:35:08 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:10 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:11 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:12 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:13 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:15 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:16 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:17 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:18 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:19 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:21 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:22 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:23 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:24 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:25 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:27 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:28 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:29 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:31 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:32 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:33 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:34 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:36 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:37 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:38 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:40 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:41 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:42 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:44 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:45 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:46 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:48 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:49 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:51 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:52 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:53 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:55 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:56 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:58 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:35:59 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:01 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:02 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:05 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:07 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:08 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:11 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:12 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:14 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:15 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:17 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:19 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:20 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:22 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:23 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:25 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:26 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:28 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:30 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:32 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:33 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:35 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:37 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:39 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:41 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:42 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:44 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:46 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:48 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:49 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:51 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:53 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:54 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:56 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:36:58 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:00 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:01 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:03 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:05 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:07 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:09 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:11 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:13 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:15 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:16 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:18 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:20 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:22 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:24 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:26 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:28 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:29 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:31 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:33 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:35 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:37 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:39 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:40 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:42 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:44 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:46 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:48 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:50 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:52 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:54 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:56 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:37:58 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:00 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:02 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:04 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:06 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:08 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:10 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:12 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:14 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:16 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:18 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:20 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:23 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:25 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:27 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:29 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:31 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:33 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:35 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:37 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:39 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:41 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:43 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:45 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:48 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:50 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:52 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:54 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:56 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:38:58 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:00 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:03 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:05 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:07 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:09 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:12 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:14 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:16 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:19 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:21 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:23 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:25 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:27 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:30 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:32 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:34 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:37 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:39 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:41 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:44 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:46 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:48 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:51 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:53 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:55 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:39:57 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:00 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:02 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:05 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:07 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:09 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:12 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:15 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:17 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:20 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:22 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:25 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:27 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:30 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:32 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:35 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:38 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:40 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:43 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:45 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:48 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:50 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:53 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:55 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:40:58 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:00 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:03 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:05 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:08 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:10 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:13 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:15 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:18 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:21 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:23 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:26 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:29 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:31 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:34 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:36 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:39 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:42 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:44 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:47 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:50 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:52 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:55 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:41:58 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:00 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:03 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:06 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:08 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:11 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:14 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:17 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:19 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:22 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:25 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:28 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:31 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:33 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:36 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:39 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:41 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:44 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:47 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:50 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:53 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:55 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:42:58 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:01 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:04 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:07 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:09 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:12 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:15 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:18 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:21 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:24 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:27 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:30 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:33 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:36 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:39 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:41 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:44 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:47 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:50 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:53 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:56 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:43:59 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:44:02 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:44:05 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:44:08 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:44:11 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:44:14 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:44:17 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:44:20 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:44:23 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:44:28 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:44:31 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:44:34 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:44:37 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:44:40 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Info: 2024-04-23 06:45:29 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Warning: 2024-04-23 06:45:32 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:33 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:35 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:36 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:37 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:38 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:40 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:41 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:42 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:43 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:44 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:46 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:47 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:48 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:49 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:51 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:52 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Warning: 2024-04-23 06:45:53 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Info: 2024-04-23 06:47:09 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 06:47:17 
+│ Web Server starting at http://127.0.0.1:8000 - press Ctrl/Cmd+C to stop the server. 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:161
+┌ Info: 2024-04-23 06:47:19 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 06:51:03 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Error: 2024-04-23 06:51:07 MethodError: no method matching ui()
+│ Stacktrace:
+│   [1] html!(data::typeof(Main.App.ui); context::Module, status::Int64, headers::Dict{String, String}, layout::String, forceparse::Bool, noparse::Bool, vars::@Kwargs{model::Main.App.var"##Main.App_ReactiveModel!#237"})
+│     @ Genie.Renderer.Html C:\Users\thego\.julia\packages\Genie\3gPCR\src\renderers\Html.jl:567
+│   [2] (::Stipple.Pages.var"#5#6"{typeof(Main.App.ui), Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}}, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\thego\.julia\packages\Stipple\egpvt\src\Pages.jl:65
+│   [3] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\thego\.julia\packages\Genie\3gPCR\src\Router.jl:535
+│   [4] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Router C:\Users\thego\.julia\packages\Genie\3gPCR\src\Router.jl:171
+│   [5] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:278
+│   [6] (::Genie.Server.var"#29#30"{HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│   [7] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│   [8] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│   [9] #153
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [10] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#29#30"{HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [11] #remotecall_fetch#158
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [12] remotecall_fetch
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [13] remotecall_fetch
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [14] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:305
+│  [15] setup_http_listener
+│     @ C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:304 [inlined]
+│  [16] (::HTTP.Handlers.var"#1#2"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ HTTP.Handlers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Handlers.jl:58
+│  [17] setup_http_streamer(http::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:294
+│  [18] (::Genie.Server.var"#7#14")(http::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:121
+│  [19] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [20] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [21] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:469
+│  [22] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#14", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:401
+│ 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:317
+┌ Info: 2024-04-23 06:51:25 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Error: 2024-04-23 06:51:45 MethodError: no method matching ui()
+│ Stacktrace:
+│   [1] html!(data::typeof(Main.App.ui); context::Module, status::Int64, headers::Dict{String, String}, layout::String, forceparse::Bool, noparse::Bool, vars::@Kwargs{model::Main.App.var"##Main.App_ReactiveModel!#237"})
+│     @ Genie.Renderer.Html C:\Users\thego\.julia\packages\Genie\3gPCR\src\renderers\Html.jl:567
+│   [2] (::Stipple.Pages.var"#5#6"{typeof(Main.App.ui), Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}}, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\thego\.julia\packages\Stipple\egpvt\src\Pages.jl:65
+│   [3] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\thego\.julia\packages\Genie\3gPCR\src\Router.jl:535
+│   [4] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Router C:\Users\thego\.julia\packages\Genie\3gPCR\src\Router.jl:171
+│   [5] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:278
+│   [6] (::Genie.Server.var"#29#30"{HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│   [7] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│   [8] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│   [9] #153
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [10] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#29#30"{HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [11] #remotecall_fetch#158
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [12] remotecall_fetch
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [13] remotecall_fetch
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [14] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:305
+│  [15] setup_http_listener
+│     @ C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:304 [inlined]
+│  [16] (::HTTP.Handlers.var"#1#2"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ HTTP.Handlers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Handlers.jl:58
+│  [17] setup_http_streamer(http::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:294
+│  [18] (::Genie.Server.var"#7#14")(http::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:121
+│  [19] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [20] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [21] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:469
+│  [22] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#14", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:401
+│ 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:317
+┌ Error: 2024-04-23 06:51:48 InterruptException()
+└ @ Genie.Renderer.Html C:\Users\thego\.julia\packages\Genie\3gPCR\src\renderers\Html.jl:1212
+┌ Info: 2024-04-23 06:54:01 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:409
+┌ Info: 2024-04-23 06:54:07 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 06:55:10 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 06:55:18 
+│ Web Server starting at http://127.0.0.1:8000 - press Ctrl/Cmd+C to stop the server. 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:161
+┌ Info: 2024-04-23 06:55:19 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 07:02:15 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 07:03:47 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 07:09:01 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Error: 2024-04-23 07:09:05 MethodError: no method matching on(::Main.App.var"#64#65"{Main.App.var"##Main.App_ReactiveModel!#238"}, ::typeof(button))
+│ 
+│ Closest candidates are:
+│   on(!Matched::AbstractObservable, ::Function; weak)
+│    @ Stipple C:\Users\thego\.julia\packages\Stipple\egpvt\src\Stipple.jl:803
+│   on(::Any, !Matched::AbstractObservable; weak, priority, update)
+│    @ Observables C:\Users\thego\.julia\packages\Observables\YdEbO\src\Observables.jl:361
+│ 
+│ Stacktrace:
+│   [1] __GF_AUTO_HANDLERS__(__model__::Main.App.var"##Main.App_ReactiveModel!#238")
+│     @ Main.App C:\Users\thego\.julia\packages\Stipple\egpvt\src\ReactiveTools.jl:904
+│   [2] top-level scope
+│     @ C:\Users\thego\.julia\packages\Stipple\egpvt\src\ReactiveTools.jl:607
+│   [3] eval
+│     @ .\boot.jl:385 [inlined]
+│   [4] (::Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}})()
+│     @ Stipple.ReactiveTools C:\Users\thego\.julia\packages\Stipple\egpvt\src\ReactiveTools.jl:1029
+│   [5] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│   [6] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│   [7] (::Stipple.Pages.var"#5#6"{typeof(Main.App.manual), Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}}, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\thego\.julia\packages\Stipple\egpvt\src\Pages.jl:65
+│   [8] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\thego\.julia\packages\Genie\3gPCR\src\Router.jl:535
+│   [9] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Router C:\Users\thego\.julia\packages\Genie\3gPCR\src\Router.jl:171
+│  [10] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:278
+│  [11] (::Genie.Server.var"#29#30"{HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [12] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [13] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [14] #153
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [15] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#29#30"{HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [16] #remotecall_fetch#158
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [17] remotecall_fetch
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [18] remotecall_fetch
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:305
+│  [20] setup_http_listener
+│     @ C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:304 [inlined]
+│  [21] (::HTTP.Handlers.var"#1#2"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ HTTP.Handlers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Handlers.jl:58
+│  [22] setup_http_streamer(http::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:294
+│  [23] (::Genie.Server.var"#7#14")(http::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:121
+│  [24] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [25] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:469
+│  [27] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#14", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:401
+│ 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:317
+┌ Info: 2024-04-23 07:10:40 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:409
+┌ Info: 2024-04-23 07:10:46 
+│ Web Server starting at http://127.0.0.1:8000 - press Ctrl/Cmd+C to stop the server. 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:161
+┌ Info: 2024-04-23 07:10:46 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Error: 2024-04-23 07:10:55 MethodError: no method matching on(::Main.App.var"#64#65"{Main.App.var"##Main.App_ReactiveModel!#238"}, ::typeof(button))
+│ 
+│ Closest candidates are:
+│   on(!Matched::AbstractObservable, ::Function; weak)
+│    @ Stipple C:\Users\thego\.julia\packages\Stipple\egpvt\src\Stipple.jl:803
+│   on(::Any, !Matched::AbstractObservable; weak, priority, update)
+│    @ Observables C:\Users\thego\.julia\packages\Observables\YdEbO\src\Observables.jl:361
+│ 
+│ Stacktrace:
+│   [1] __GF_AUTO_HANDLERS__(__model__::Main.App.var"##Main.App_ReactiveModel!#238")
+│     @ Main.App C:\Users\thego\.julia\packages\Stipple\egpvt\src\ReactiveTools.jl:904
+│   [2] top-level scope
+│     @ C:\Users\thego\.julia\packages\Stipple\egpvt\src\ReactiveTools.jl:607
+│   [3] eval
+│     @ .\boot.jl:385 [inlined]
+│   [4] (::Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}})()
+│     @ Stipple.ReactiveTools C:\Users\thego\.julia\packages\Stipple\egpvt\src\ReactiveTools.jl:1029
+│   [5] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│   [6] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│   [7] (::Stipple.Pages.var"#5#6"{typeof(Main.App.manual), Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}}, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\thego\.julia\packages\Stipple\egpvt\src\Pages.jl:65
+│   [8] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\thego\.julia\packages\Genie\3gPCR\src\Router.jl:535
+│   [9] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Router C:\Users\thego\.julia\packages\Genie\3gPCR\src\Router.jl:171
+│  [10] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:278
+│  [11] (::Genie.Server.var"#29#30"{HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [12] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [13] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [14] #153
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [15] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#29#30"{HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [16] #remotecall_fetch#158
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [17] remotecall_fetch
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [18] remotecall_fetch
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:305
+│  [20] setup_http_listener
+│     @ C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:304 [inlined]
+│  [21] (::HTTP.Handlers.var"#1#2"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ HTTP.Handlers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Handlers.jl:58
+│  [22] setup_http_streamer(http::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:294
+│  [23] (::Genie.Server.var"#7#14")(http::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:121
+│  [24] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [25] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:469
+│  [27] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#14", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:401
+│ 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\3gPCR\src\Server.jl:317
+┌ Info: 2024-04-23 07:13:50 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 07:14:46 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 07:32:26 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 07:35:38 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 07:36:15 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:409
+┌ Info: 2024-04-23 07:36:25 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 07:36:53 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 07:42:07 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 07:43:14 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 07:46:36 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 07:49:27 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 07:50:21 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 07:51:07 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 07:54:34 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 08:07:38 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 08:07:41 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 08:07:42 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 08:15:54 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 08:15:57 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 08:15:57 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 08:17:08 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 08:18:14 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 08:18:17 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 08:18:17 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 08:20:19 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 08:21:30 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 08:21:58 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 08:22:00 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 08:22:01 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Error: 2024-04-23 08:24:32 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#23":
+│  [1] (::Main.App.var"#23#24")(refresh)
+│      @ C:\Users\thego\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:1062
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─ %1  = Core.getfield(#self#, :__model__)
+│ │   %2  = Base.getproperty(%1, :mix)
+│ │   %3  = Base.getindex(%2)
+│ │         value = %3
+│ │   %5  = Base.repr(%3)
+│ │         Base.println("__model__.mix[] = ", %5)
+│ │         value
+│ │   %8  = "action" => "setval"
+│ │   %9  = Core.getfield(#self#, :__model__)
+│ │   %10 = Base.getproperty(%9, :mix)
+│ │   %11 = Base.getindex(%10)
+│ │   %12 = "mix" => %11
+│ │   %13 = Main.App.Dict(%12)
+│ │   %14 = "data" => %13
+│ │         dict = Main.App.Dict(%8, %14)
+│ │   %16 = Main.App.appsignal
+│ │   %17 = Base.getproperty(Main.App.JSON, :json)
+│ │   %18 = (%17)(dict)
+│ │         Main.App.push!(%16, %18)
+│ │   %20 = Core.getfield(#self#, :__model__)
+│ │   %21 = Base.getproperty(%20, :mix)
+│ │         Base.setindex!(%21, 0)
+│ └──       return 0
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   UndefVarError(:JSON)
+│ 
+│   exception = (UndefVarError(:JSON), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffc6986e266, Ptr{Nothing} @0x00007ffc6980376a, Ptr{Nothing} @0x000002211466cd00, Ptr{Nothing} @0x000002211466cf04, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x0000022114664e06, Ptr{Nothing} @0x0000022114665868, Ptr{Nothing} @0x00000221146658bc, Ptr{Nothing} @0x000002211466381f, Ptr{Nothing} @0x00000221146638f1, Ptr{Nothing} @0x000002211465b481, Ptr{Nothing} @0x000002211465b75b, Ptr{Nothing} @0x0000022114655045, Ptr{Nothing} @0x00000221146554b7, Ptr{Nothing} @0x000002211465554b, Ptr{Nothing} @0x000002211465558f, Ptr{Nothing} @0x0000022114639ca2, Ptr{Nothing} @0x0000022114639cfb, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x00007ffc65355c3a, Ptr{Nothing} @0x00007ffc653660f0, Ptr{Nothing} @0x00007ffc653b1157, Ptr{Nothing} @0x00000221145c0f15, Ptr{Nothing} @0x00000221145c0fe2, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x00000221145bbb6c, Ptr{Nothing} @0x00000221145be15c, Ptr{Nothing} @0x00000221145be76b, Ptr{Nothing} @0x00007ffc6980bf3b])
+└ @ Stipple C:\Users\thego\.julia\packages\Stipple\0khJ6\src\stipple\mutators.jl:54
+┌ Info: 2024-04-23 08:24:52 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 08:25:35 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 08:25:38 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 08:25:38 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 08:40:42 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 08:41:57 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 08:42:03 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 08:42:03 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Error: 2024-04-23 08:43:48 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#23":
+│  [1] (::Main.App.var"#23#24")(refresh)
+│      @ C:\Users\thego\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:1062
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─ %1  = "action" => "setval"
+│ │   %2  = Main.App.Dict()
+│ │   %3  = "data" => %2
+│ │         dict = Main.App.Dict(%1, %3)
+│ │   %5  = Base.vect(:mix, :mmd, :mrl, :mtf, :mto, :six, :smd)
+│ │         @_3 = Base.iterate(%5)
+│ │   %7  = @_3 === nothing
+│ │   %8  = Base.not_int(%7)
+│ └──       goto #4 if not %8
+│ 2 ┄ %10 = @_3
+│ │         x = Core.getfield(%10, 1)
+│ │   %12 = Core.getfield(%10, 2)
+│ │   %13 = Main.App.eval(x)
+│ │   %14 = Base.getindex(dict, "data")
+│ │   %15 = Main.App.String(x)
+│ │         Base.setindex!(%14, %13, %15)
+│ │   %17 = $(Expr(:copyast, :($(QuoteNode(:(x = 0))))))
+│ │         Main.App.eval(%17)
+│ │         @_3 = Base.iterate(%5, %12)
+│ │   %20 = @_3 === nothing
+│ │   %21 = Base.not_int(%20)
+│ └──       goto #4 if not %21
+│ 3 ─       goto #2
+│ 4 ┄       return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   UndefVarError(:mix)
+│ 
+│   exception = (UndefVarError(:mix), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffc6986e266, Ptr{Nothing} @0x00007ffc69805d64, Ptr{Nothing} @0x00007ffc69807a66, Base.InterpreterIP in nothing at statement 140722080629076, Ptr{Nothing} @0x00007ffc69824eff, Ptr{Nothing} @0x00000204bfc10b41, Ptr{Nothing} @0x00000204bfc10dcd, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x00000204bfbff406, Ptr{Nothing} @0x00000204bfbffe68, Ptr{Nothing} @0x00000204bfbffebc, Ptr{Nothing} @0x00000204bfbfde1f, Ptr{Nothing} @0x00000204bfbfdef1, Ptr{Nothing} @0x00000204bfbf58d1, Ptr{Nothing} @0x00000204bfbf5bab, Ptr{Nothing} @0x00000204bfbef085, Ptr{Nothing} @0x00000204bfbef4f5, Ptr{Nothing} @0x00000204bfbef57b, Ptr{Nothing} @0x00000204bfbef5bf, Ptr{Nothing} @0x00000204bfbd3de2, Ptr{Nothing} @0x00000204bfbd3e3b, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x00007ffc640d5c3a, Ptr{Nothing} @0x00007ffc640e60f0, Ptr{Nothing} @0x00007ffc64131157, Ptr{Nothing} @0x000002049d3554b5, Ptr{Nothing} @0x000002049d355582, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x000002049d35037c, Ptr{Nothing} @0x000002049d352703, Ptr{Nothing} @0x000002049d352d0b, Ptr{Nothing} @0x00007ffc6980bf3b])
+└ @ Stipple C:\Users\thego\.julia\packages\Stipple\0khJ6\src\stipple\mutators.jl:54
+┌ Info: 2024-04-23 08:46:47 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 08:47:46 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 08:47:49 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 08:47:50 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Error: 2024-04-23 08:49:30 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#23":
+│  [1] (::Main.App.var"#23#24")(refresh)
+│      @ C:\Users\thego\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:1062
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─ %1  = "action" => "setval"
+│ │   %2  = Main.App.Dict()
+│ │   %3  = "data" => %2
+│ │         dict = Main.App.Dict(%1, %3)
+│ │   %5  = Base.vect(:mix, :mmd, :mrl, :mtf, :mto, :six, :smd)
+│ │         @_3 = Base.iterate(%5)
+│ │   %7  = @_3 === nothing
+│ │   %8  = Base.not_int(%7)
+│ └──       goto #4 if not %8
+│ 2 ┄ %10 = @_3
+│ │         x = Core.getfield(%10, 1)
+│ │   %12 = Core.getfield(%10, 2)
+│ │   %13 = Main.App.eval(:x)
+│ │   %14 = Base.getindex(dict, "data")
+│ │   %15 = Main.App.String(x)
+│ │         Base.setindex!(%14, %13, %15)
+│ │   %17 = $(Expr(:copyast, :($(QuoteNode(:(x = 0))))))
+│ │         Main.App.eval(%17)
+│ │         @_3 = Base.iterate(%5, %12)
+│ │   %20 = @_3 === nothing
+│ │   %21 = Base.not_int(%20)
+│ └──       goto #4 if not %21
+│ 3 ─       goto #2
+│ 4 ┄       return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   UndefVarError(:x)
+│ 
+│   exception = (UndefVarError(:x), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffc6986e266, Ptr{Nothing} @0x00007ffc69805d64, Ptr{Nothing} @0x00007ffc69807a66, Base.InterpreterIP in nothing at statement 140722080629076, Ptr{Nothing} @0x00007ffc69824eff, Ptr{Nothing} @0x000001831564248b, Ptr{Nothing} @0x000001831564271d, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x0000018315637486, Ptr{Nothing} @0x0000018315637ee8, Ptr{Nothing} @0x0000018315637f3c, Ptr{Nothing} @0x0000018315635e9f, Ptr{Nothing} @0x0000018315635f71, Ptr{Nothing} @0x000001831562db11, Ptr{Nothing} @0x000001831562ddeb, Ptr{Nothing} @0x00000183156276e5, Ptr{Nothing} @0x0000018315627b55, Ptr{Nothing} @0x0000018315627bdb, Ptr{Nothing} @0x0000018315627c1f, Ptr{Nothing} @0x000001831560bf62, Ptr{Nothing} @0x000001831560bfbb, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x00007ffc640d5c3a, Ptr{Nothing} @0x00007ffc640e60f0, Ptr{Nothing} @0x00007ffc64131157, Ptr{Nothing} @0x000001831558a895, Ptr{Nothing} @0x000001831558a962, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x000001831558575c, Ptr{Nothing} @0x0000018315587ae3, Ptr{Nothing} @0x00000183155880eb, Ptr{Nothing} @0x00007ffc6980bf3b])
+└ @ Stipple C:\Users\thego\.julia\packages\Stipple\0khJ6\src\stipple\mutators.jl:54
+┌ Info: 2024-04-23 08:50:51 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 08:51:23 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 08:51:27 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 08:51:28 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Error: 2024-04-23 08:52:25 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#23":
+│  [1] (::Main.App.var"#23#24")(refresh)
+│      @ C:\Users\thego\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:1062
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─ %1  = "action" => "setval"
+│ │   %2  = Main.App.Dict()
+│ │   %3  = "data" => %2
+│ │         dict = Main.App.Dict(%1, %3)
+│ │   %5  = Base.vect(:mix, :mmd, :mrl, :mtf, :mto, :six, :smd)
+│ │         @_3 = Base.iterate(%5)
+│ │   %7  = @_3 === nothing
+│ │   %8  = Base.not_int(%7)
+│ └──       goto #4 if not %8
+│ 2 ┄ %10 = @_3
+│ │         x = Core.getfield(%10, 1)
+│ │   %12 = Core.getfield(%10, 2)
+│ │   %13 = Main.App.eval(x)
+│ │   %14 = Base.getindex(dict, "data")
+│ │   %15 = Main.App.String(x)
+│ │         Base.setindex!(%14, %13, %15)
+│ │   %17 = $(Expr(:copyast, :($(QuoteNode(:(x = 0))))))
+│ │         Main.App.eval(%17)
+│ │         @_3 = Base.iterate(%5, %12)
+│ │   %20 = @_3 === nothing
+│ │   %21 = Base.not_int(%20)
+│ └──       goto #4 if not %21
+│ 3 ─       goto #2
+│ 4 ┄       return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   UndefVarError(:mix)
+│ 
+│   exception = (UndefVarError(:mix), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffc6986e266, Ptr{Nothing} @0x00007ffc69805d64, Ptr{Nothing} @0x00007ffc69807a66, Base.InterpreterIP in nothing at statement 140722080629076, Ptr{Nothing} @0x00007ffc69824eff, Ptr{Nothing} @0x000001f3144eeab1, Ptr{Nothing} @0x000001f3144eed3d, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x000001f3144df4b6, Ptr{Nothing} @0x000001f3144dff18, Ptr{Nothing} @0x000001f3144dff6c, Ptr{Nothing} @0x000001f3144ddecf, Ptr{Nothing} @0x000001f3144ddfa1, Ptr{Nothing} @0x000001f3144d5971, Ptr{Nothing} @0x000001f3144d5c4b, Ptr{Nothing} @0x000001f37173dbb5, Ptr{Nothing} @0x000001f37173e025, Ptr{Nothing} @0x000001f37173e0ab, Ptr{Nothing} @0x000001f37173e0ef, Ptr{Nothing} @0x000001f37172aa92, Ptr{Nothing} @0x000001f37172aaeb, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x00007ffc640d5c3a, Ptr{Nothing} @0x00007ffc640e60f0, Ptr{Nothing} @0x00007ffc64131157, Ptr{Nothing} @0x000001f371729bd5, Ptr{Nothing} @0x000001f371729ca2, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x000001f37172477f, Ptr{Nothing} @0x000001f371726d93, Ptr{Nothing} @0x000001f37172739b, Ptr{Nothing} @0x00007ffc6980bf3b])
+└ @ Stipple C:\Users\thego\.julia\packages\Stipple\0khJ6\src\stipple\mutators.jl:54
+┌ Info: 2024-04-23 08:57:33 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 08:57:38 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 08:57:38 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 08:59:26 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Warning: 2024-04-23 08:59:28 Failed to clean up temporary path "C:\\Users\\thego\\AppData\\Local\\Temp\\jl_genie_build_79bpo2"
+│ InterruptException()
+└ @ Base.Filesystem file.jl:549
+┌ Info: 2024-04-23 09:00:07 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 09:00:11 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 09:00:11 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 09:02:22 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 09:02:57 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 09:04:18 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 09:04:42 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-04-23 09:04:49 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#75":
+│  [1] (::Main.App.var"#75#76")(refresh)
+│      @ C:\Users\thego\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:1062
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─ %1  = "action" => "setval"
+│ │   %2  = Main.App.Dict()
+│ │   %3  = "data" => %2
+│ │         dict = Main.App.Dict(%1, %3)
+│ │   %5  = Core.getfield(#self#, :__model__)
+│ │   %6  = Base.getproperty(%5, :mix)
+│ │   %7  = Base.getindex(%6)
+│ │   %8  = Base.getindex(dict, "data")
+│ │         Base.setindex!(%8, %7, "mix")
+│ │   %10 = Core.getfield(#self#, :__model__)
+│ │   %11 = Base.getproperty(%10, :mix)
+│ │         Base.setindex!(%11, 0)
+│ │   %13 = Main.App.appsignal
+│ │   %14 = JSON.json
+│ │   %15 = (%14)(dict)
+│ │   %16 = Main.App.push!(%13, %15)
+│ └──       return %16
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   ErrorException("cannot convert a value to nothing for assignment")
+│ 
+│   exception = (ErrorException("cannot convert a value to nothing for assignment"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffc38bf1a63, Ptr{Nothing} @0x00007ffc39a4c4ca, Ptr{Nothing} @0x000001f85ffb9258, Ptr{Nothing} @0x000001f85ffb928f, Ptr{Nothing} @0x000001f85ffb917e, Ptr{Nothing} @0x000001f85ffb9206, Ptr{Nothing} @0x00007ffc345f4786, Ptr{Nothing} @0x000001f85ffb8d21, Ptr{Nothing} @0x000001f85ffb8fd5, Ptr{Nothing} @0x000001f85ffb9054, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x000001f841d9ec76, Ptr{Nothing} @0x000001f841d9f6d8, Ptr{Nothing} @0x000001f841d9f72c, Ptr{Nothing} @0x000001f85ffb7c3f, Ptr{Nothing} @0x000001f85ffb7d11, Ptr{Nothing} @0x000001f85ffb6bd1, Ptr{Nothing} @0x000001f85ffb6eab, Ptr{Nothing} @0x000001f841d8e8e5, Ptr{Nothing} @0x000001f841d8ed57, Ptr{Nothing} @0x000001f841d8edeb, Ptr{Nothing} @0x000001f841d8ee2f, Ptr{Nothing} @0x000001f841d7b7a2, Ptr{Nothing} @0x000001f841d7b7fb, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x00007ffc345e5c3a, Ptr{Nothing} @0x00007ffc345f60f0, Ptr{Nothing} @0x00007ffc34641157, Ptr{Nothing} @0x000001f841cf9ad5, Ptr{Nothing} @0x000001f841cf9ba2, Ptr{Nothing} @0x00007ffc697f695a, Ptr{Nothing} @0x000001f841cf4a2c, Ptr{Nothing} @0x000001f841cf6d1c, Ptr{Nothing} @0x000001f841cf732b, Ptr{Nothing} @0x00007ffc6980bf3b])
+└ @ Stipple C:\Users\thego\.julia\packages\Stipple\0khJ6\src\stipple\mutators.jl:54
+┌ Info: 2024-04-23 09:05:01 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 09:05:35 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 09:05:38 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 09:05:39 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 09:08:46 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 09:29:15 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 09:29:18 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 09:29:18 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 09:32:22 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-04-23 09:32:32 TypeError: in isa, expected Type, got a value of type Float64
+│ Stacktrace:
+│   [1] Observable{Inf}(val::Any; ignore_equal_values::Bool)
+│     @ Observables C:\Users\thego\.julia\packages\Observables\YdEbO\src\Observables.jl:80
+│   [2] Observable{Inf}(val::Any)
+│     @ Observables C:\Users\thego\.julia\packages\Observables\YdEbO\src\Observables.jl:78
+│   [3] convert(::Type{Observable{Inf}}, x::Nothing)
+│     @ Observables C:\Users\thego\.julia\packages\Observables\YdEbO\src\Observables.jl:188
+│   [4] Stipple.Reactive{Inf}(o::Nothing, mode::Int64, no_bw::Bool, no_fw::Bool, s::String)
+│     @ Stipple C:\Users\thego\.julia\packages\Stipple\0khJ6\src\stipple\reactivity.jl:25
+│   [5] Main.App.var"##Main.App_ReactiveModel!#252"()
+│     @ Main.App C:\Users\thego\.julia\packages\Stipple\0khJ6\src\Stipple.jl:1046
+│   [6] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│   [7] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│   [8] |>
+│     @ .\operators.jl:917 [inlined]
+│   [9] init(t::Type{Main.App.var"Main.App_ReactiveModel"}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple C:\Users\thego\.julia\packages\Stipple\0khJ6\src\Stipple.jl:508
+│  [10] init(t::Type{Main.App.var"Main.App_ReactiveModel"})
+│     @ Stipple C:\Users\thego\.julia\packages\Stipple\0khJ6\src\Stipple.jl:496
+│  [11] top-level scope
+│     @ C:\Users\thego\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:762
+│  [12] eval
+│     @ .\boot.jl:385 [inlined]
+│  [13] (::Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}})()
+│     @ Stipple.ReactiveTools C:\Users\thego\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:1188
+│  [14] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [15] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [16] (::Stipple.Pages.var"#7#10"{typeof(Main.App.manual), String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\thego\.julia\packages\Stipple\0khJ6\src\Pages.jl:68
+│  [17] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\thego\.julia\packages\Genie\ioH7W\src\Router.jl:548
+│  [18] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\thego\.julia\packages\Genie\ioH7W\src\Router.jl:173
+│  [19] route_request
+│     @ C:\Users\thego\.julia\packages\Genie\ioH7W\src\Router.jl:147 [inlined]
+│  [20] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:300
+│  [21] handle_request
+│     @ C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:292 [inlined]
+│  [22] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [23] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [24] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [25] #153
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [26] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [27] #remotecall_fetch#158
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [28] remotecall_fetch
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [29] remotecall_fetch
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [30] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:344
+│  [31] setup_http_listener (repeats 2 times)
+│     @ C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:342 [inlined]
+│  [32] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:313
+│  [33] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:333
+│  [34] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:124
+│  [35] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [36] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [37] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:469
+│  [38] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:401
+│ 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:356
+┌ Info: 2024-04-23 09:32:59 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-04-23 09:33:06 MethodError: Cannot `convert` an object of type Nothing to an object of type Int64
+│ 
+│ Closest candidates are:
+│   convert(::Type{T}, !Matched::EzXML.NodeType) where T<:Integer
+│    @ EzXML C:\Users\thego\.julia\packages\EzXML\DL8na\src\node.jl:36
+│   convert(::Type{T}, !Matched::EzXML.ReaderType) where T<:Integer
+│    @ EzXML C:\Users\thego\.julia\packages\EzXML\DL8na\src\streamreader.jl:59
+│   convert(::Type{T}, !Matched::SentinelArrays.ChainedVectorIndex) where T<:Union{Signed, Unsigned}
+│    @ SentinelArrays C:\Users\thego\.julia\packages\SentinelArrays\1kRo4\src\chainedvector.jl:211
+│   ...
+│ 
+│ Stacktrace:
+│   [1] Observable{Int64}(val::Any; ignore_equal_values::Bool)
+│     @ Observables C:\Users\thego\.julia\packages\Observables\YdEbO\src\Observables.jl:80
+│   [2] Observable{Int64}(val::Any)
+│     @ Observables C:\Users\thego\.julia\packages\Observables\YdEbO\src\Observables.jl:78
+│   [3] convert(::Type{Observable{Int64}}, x::Nothing)
+│     @ Observables C:\Users\thego\.julia\packages\Observables\YdEbO\src\Observables.jl:188
+│   [4] Stipple.Reactive{Int64}(o::Nothing, mode::Int64, no_bw::Bool, no_fw::Bool, s::String)
+│     @ Stipple C:\Users\thego\.julia\packages\Stipple\0khJ6\src\stipple\reactivity.jl:25
+│   [5] Main.App.var"##Main.App_ReactiveModel!#253"()
+│     @ Main.App C:\Users\thego\.julia\packages\Stipple\0khJ6\src\Stipple.jl:1046
+│   [6] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│   [7] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│   [8] |>
+│     @ .\operators.jl:917 [inlined]
+│   [9] init(t::Type{Main.App.var"Main.App_ReactiveModel"}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple C:\Users\thego\.julia\packages\Stipple\0khJ6\src\Stipple.jl:508
+│  [10] init(t::Type{Main.App.var"Main.App_ReactiveModel"})
+│     @ Stipple C:\Users\thego\.julia\packages\Stipple\0khJ6\src\Stipple.jl:496
+│  [11] top-level scope
+│     @ C:\Users\thego\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:762
+│  [12] eval
+│     @ .\boot.jl:385 [inlined]
+│  [13] (::Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}})()
+│     @ Stipple.ReactiveTools C:\Users\thego\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:1188
+│  [14] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [15] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [16] (::Stipple.Pages.var"#7#10"{typeof(Main.App.manual), String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\thego\.julia\packages\Stipple\0khJ6\src\Pages.jl:68
+│  [17] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\thego\.julia\packages\Genie\ioH7W\src\Router.jl:548
+│  [18] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\thego\.julia\packages\Genie\ioH7W\src\Router.jl:173
+│  [19] route_request
+│     @ C:\Users\thego\.julia\packages\Genie\ioH7W\src\Router.jl:147 [inlined]
+│  [20] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:300
+│  [21] handle_request
+│     @ C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:292 [inlined]
+│  [22] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [23] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [24] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [25] #153
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [26] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [27] #remotecall_fetch#158
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [28] remotecall_fetch
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [29] remotecall_fetch
+│     @ C:\Users\thego\scoop\apps\julia\current\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [30] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:344
+│  [31] setup_http_listener (repeats 2 times)
+│     @ C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:342 [inlined]
+│  [32] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:313
+│  [33] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:333
+│  [34] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:124
+│  [35] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [36] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [37] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:469
+│  [38] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:401
+│ 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:356
+┌ Info: 2024-04-23 09:33:34 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 09:33:40 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 09:43:43 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 09:44:33 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 09:59:04 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 10:16:41 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 10:17:26 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 10:24:21 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 10:24:24 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 10:24:24 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 10:27:18 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 10:27:21 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 10:27:21 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 10:39:34 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 10:39:37 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 10:39:37 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Warning: 2024-04-23 10:44:09 Failed to clean up temporary path "C:\\Users\\thego\\AppData\\Local\\Temp\\jl_genie_build_Qg8TJa"
+│ InterruptException()
+└ @ Base.Filesystem file.jl:549
+┌ Info: 2024-04-23 10:44:48 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 10:44:50 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 10:44:50 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 10:46:18 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 10:46:21 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 10:46:21 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 10:52:09 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 10:52:12 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 10:52:12 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 10:58:39 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 10:58:42 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 10:58:42 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 11:02:22 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 11:02:25 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 11:02:25 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 11:08:34 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 11:08:37 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 11:08:37 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 11:12:04 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 11:12:07 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 11:12:07 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 11:15:05 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 11:15:08 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 11:15:09 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 11:22:44 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 11:22:46 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 11:22:46 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 11:31:02 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 11:31:05 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 11:31:05 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 11:36:41 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 11:37:28 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 11:37:31 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 11:37:31 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 11:40:09 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 11:40:13 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 11:40:14 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 11:42:44 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 11:42:46 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 11:42:46 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 11:45:57 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 11:45:59 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 11:46:00 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 11:48:42 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 11:51:06 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 11:51:09 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 11:51:09 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 11:54:54 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 11:54:57 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 11:54:57 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 11:59:23 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 11:59:25 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 11:59:26 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 12:01:55 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-23 12:02:41 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19

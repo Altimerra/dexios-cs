@@ -1,0 +1,63 @@
+┌ Info: 2024-04-22 21:18:14 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-22 21:20:13 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 21:20:48 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Warning: 2024-04-22 21:21:43 GenieTools already loaded, skipping
+└ @ Main.App C:\Users\thego\.julia\packages\GenieFramework\3L1Ah\src\GenieFramework.jl:119
+┌ Info: 2024-04-22 21:21:46 
+│ Web Server starting at http://127.0.0.1:8000 - press Ctrl/Cmd+C to stop the server. 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-22 21:21:47 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-22 21:36:37 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 21:40:46 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 21:41:00 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 21:44:31 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 21:48:01 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 21:51:45 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 21:51:55 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 21:52:25 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 21:52:37 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 21:52:55 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 21:56:04 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 21:56:47 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 21:57:20 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 21:57:59 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 22:01:11 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 22:01:16 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 22:11:56 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 22:11:58 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 22:12:15 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 22:22:52 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 22:23:33 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 22:23:55 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 22:24:24 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 22:24:44 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-04-22 22:25:32 Autoreloading
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22

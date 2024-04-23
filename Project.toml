@@ -6,5 +6,6 @@ version = "0.1.0"
 [deps]
 DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
 Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+GenieFramework = "a59fdf5c-6bf0-4f5d-949c-a137c9e2f353"
 LibSerialPort = "a05a14c7-6e3b-5ba9-90a2-45558833e1df"
 Reactive = "a223df75-4e93-5b7c-acf9-bdd599c0f4de"

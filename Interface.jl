@@ -1,13 +1,14 @@
 module Interface
 
-include("Webapp.jl")
+#include("Webapp.jl")
 include("Console.jl")
 
-import .Webapp
+#import .Webapp
 import .Console
 
 import Reactive
 import JSON
+import GenieFramework
 
 
 function parseJSON(jsonString::String)
@@ -20,7 +21,7 @@ function parseJSON(jsonString::String)
     return Dict()
 end
 
-command = Reactive.Signal("")
+#command = Reactive.Signal("")
 serialread = Reactive.Signal("")
 serialwrite = Reactive.Signal("")
 serialjson = Reactive.map(parseJSON, serialread, typ=Dict)
@@ -28,35 +29,12 @@ serialall = Reactive.foldp(push!, [], serialjson)
 
 
 function run()
-
-    Webapp.app(command)
-
+    GenieFramework.Genie.loadapp()
+    GenieFramework.Server.isrunning() || GenieFramework.up(async=true)
     @async Console.console("COM7", "9600", serialread, serialwrite)
-
-    foreach(x -> Reactive.push!(serialwrite, x), command)
+    foreach(x -> Reactive.push!(serialwrite, x), Main.App.appsignal)
 end
 
-export command, serialread, serialwrite, serialjson, serialall
-
-
-
-
-
-
-#filter the signal for empty values
-
-
-
-#y = Reactive.foreach(+, x, xsquared; typ=Float64, init=0)
-
-#
-
-#sleep(0.05)
-
-#push!(serialwrite, JSON.json(Dict("command"=>"LED", "value"=>"1")))
-
-#sleep(0.05)
-
-#push!(serialwrite, JSON.json(Dict("command"=>"LED", "value"=>"2")))
+export serialread, serialwrite, serialjson, serialall
 
 end
