@@ -1528,3 +1528,15 @@
 └ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
 ┌ Info: 2024-04-23 12:02:41 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
 └ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 12:02:44 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 12:02:44 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382
+┌ Info: 2024-04-23 12:20:27 Watching ["D:\\Workbench\\FYP\\Control System\\DexiosCS"]
+└ @ GenieAutoReload C:\Users\thego\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-04-23 12:20:30 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\thego\.julia\packages\Genie\ioH7W\src\Server.jl:182
+┌ Info: 2024-04-23 12:20:30 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\thego\.julia\packages\HTTP\PnoHb\src\Servers.jl:382

@@ -31,7 +31,7 @@ serialall = Reactive.foldp(push!, [], serialjson)
 function run()
     GenieFramework.Genie.loadapp()
     GenieFramework.Server.isrunning() || GenieFramework.up(async=true)
-    @async Console.console("COM7", "9600", serialread, serialwrite)
+    @async Console.console("COM7", "115200", serialread, serialwrite)
     foreach(x -> Reactive.push!(serialwrite, x), Main.App.appsignal)
 end
 
