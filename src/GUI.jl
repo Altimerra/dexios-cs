@@ -189,7 +189,7 @@ main() do app::Application
 
     smd = Switch()
     set_margin!(smd, 10)
-    smd_label = Label("Solenoid Index")
+    smd_label = Label("Solenoid Middle")
     set_alignment!(smd, ALIGNMENT_CENTER)
     connect_signal_switched!(smd) do self::Switch
         value = get_is_active(self) |> string
