@@ -164,7 +164,7 @@ end
 function main()
     # Connect to a broker
     client = Client("localhost", 1883)   
-    @async console("COM13", "115200", serialread, serialwrite)
+    @async console("COM10", "115200", serialread, serialwrite)
     # Messages will be put as a tuple in
     # the channel Mosquitto.messages_channel.
     

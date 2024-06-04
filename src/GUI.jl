@@ -139,18 +139,6 @@ main() do app::Application
         return nothing
     end
 
-    mrl = Scale(0, 100, 1)
-    set_margin!(mrl, 10)
-    set_size_request!(mrl, Vector2f(scaleSize, 0))
-    mrl_label = Label("Motor Ring/Little")
-    connect_signal_value_changed!(mrl) do self::Scale
-        value = scalerfunc(get_value(self))
-        #dict = Dict("action" => commandString, "data" => Dict("mrl" => value))
-        #put!(channel, JSON.json(dict))
-        pubmsg(topic["mrl"], value)
-        return nothing
-    end
-
     mtf = Scale(0, 100, 1)
     set_margin!(mtf, 10)
     set_size_request!(mtf, Vector2f(scaleSize, 0))
@@ -172,6 +160,18 @@ main() do app::Application
         #dict = Dict("action" => commandString, "data" => Dict("mto" => value))
         #put!(channel, JSON.json(dict))
         pubmsg(topic["mto"], value)
+        return nothing
+    end
+
+    mrl = Scale(0, 100, 1)
+    set_margin!(mrl, 10)
+    set_size_request!(mrl, Vector2f(scaleSize, 0))
+    mrl_label = Label("Motor Ring/Little")
+    connect_signal_value_changed!(mrl) do self::Scale
+        value = scalerfunc(get_value(self))
+        #dict = Dict("action" => commandString, "data" => Dict("mrl" => value))
+        #put!(channel, JSON.json(dict))
+        pubmsg(topic["mrl"], value)
         return nothing
     end
 
@@ -203,12 +203,12 @@ main() do app::Application
     insert_at!(grid, mix, 2, 1, 20, 1)
     insert_at!(grid, mmd_label, 1, 2, 1, 1)
     insert_at!(grid, mmd, 2, 2, 20, 1)
-    insert_at!(grid, mrl_label, 1, 3, 1, 1)
-    insert_at!(grid, mrl, 2, 3, 20, 1)
-    insert_at!(grid, mtf_label, 1, 4, 1, 1)
-    insert_at!(grid, mtf, 2, 4, 20, 1)
-    insert_at!(grid, mto_label, 1, 5, 1, 1)
-    insert_at!(grid, mto, 2, 5, 20, 1)
+    insert_at!(grid, mrl_label, 1, 5, 1, 1)
+    insert_at!(grid, mrl, 2, 5, 20, 1)
+    insert_at!(grid, mtf_label, 1, 3, 1, 1)
+    insert_at!(grid, mtf, 2, 3, 20, 1)
+    insert_at!(grid, mto_label, 1, 4, 1, 1)
+    insert_at!(grid, mto, 2, 4, 20, 1)
     insert_at!(grid, six_label, 1, 6, 1, 1)
     insert_at!(grid, six, 2, 6, 1, 1)
     insert_at!(grid, smd_label, 1, 7, 1, 1)
