@@ -1,7 +1,6 @@
 module GUI
 using Mousetrap
 using Mosquitto
-import Reactive as Rx
 import JSON
 
 client = Client("localhost", 1883) 
@@ -41,30 +40,25 @@ main() do app::Application
     paned = Paned(ORIENTATION_HORIZONTAL)
     grid = Grid()
     box = Box(ORIENTATION_VERTICAL)
-
+    rst = Button(Label("Reset"))
     dropdown = DropDown()
     set_margin!(dropdown, 10)
     graspselect = DropDown()
     set_margin!(graspselect, 10)
-    set_is_visible!(graspselect, false)
 
     set_start_child!(paned, box)
     set_end_child!(paned, grid)
 
     push_back!(box, dropdown)
     push_back!(box, graspselect)
+    push_back!(box, rst)
 
-    push_back!(dropdown, "Reset") do self::DropDown
-        set_is_visible!(mix, true)
-        set_is_visible!(mmd, true)
-        set_is_visible!(mrl, true)
-        set_is_visible!(mtf, true)
-        set_is_visible!(mto, true)
-        set_is_visible!(six, true)
-        set_is_visible!(smd, true)
-        set_is_visible!(graspselect, false)
-        return nothing
+    connect_signal_clicked!(rst) do x::Button
+        println("clicked!")
+
+        
     end
+
     push_back!(dropdown, "PID") do self::DropDown
         global scalerfunc = setsetpoint
         set_value!(mix, 0)
@@ -75,6 +69,7 @@ main() do app::Application
         pubmsg(topic["mode"], "pid")
         return nothing
     end
+
     push_back!(dropdown, "Manual") do self::DropDown
         global scalerfunc = setspeed
         set_value!(mix, 50)
@@ -85,20 +80,14 @@ main() do app::Application
         pubmsg(topic["mode"], "manual")
         return nothing
     end
+
     push_back!(dropdown, "Grasp") do self::DropDown
-        set_is_visible!(mix, false)
-        set_is_visible!(mmd, false)
-        set_is_visible!(mrl, false)
-        set_is_visible!(mtf, false)
-        set_is_visible!(mto, false)
-        set_is_visible!(six, false)
-        set_is_visible!(smd, false)
-        set_is_visible!(graspselect, true)
         pubmsg(topic["mode"], "grasp")
         return nothing
     end
 
     push_back!(graspselect, "None") do self::DropDown
+        pubmsg(topic["grasp"], "none")
         return nothing
     end
     push_back!(graspselect, "Pinch") do self::DropDown
